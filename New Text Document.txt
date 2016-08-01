@@ -1,4 +1,3 @@
 anjhjjoi9iokpo
 build.xml
-test.doc
-remote repo
+
